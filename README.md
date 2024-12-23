@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Report: Sentiment Analysis on Steam Reviews ([GitHub](https://github.com/NaufalHD12))
 
 ![cover](./images/Steam-Valve.avif)
