@@ -24,7 +24,7 @@ Studies in sentiment analysis demonstrate that machine learning models, particul
 - How can we efficiently classify game reviews as positive or negative to assist users in decision-making?
 - What machine learning models can provide accurate sentiment analysis for game reviews?
 ### Goals
-- Develop machine learning models (logistic regression, naive Bayes, SGD Classifier, and CNN-BiGRU) to classify game reviews.
+- Develop machine learning models (Logistic Regression, Naive Bayes, SGD Classifier, and CNN-BiGRU) to classify game reviews.
 - Achieve a high accuracy rate with minimum 80% accuracy test to ensure reliable insights for users.
 
 
